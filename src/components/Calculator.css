@@ -1,0 +1,16 @@
+.bg-dark-blue {
+  background-color: darkblue;
+}
+.extra-round {
+  border-radius: 20px;
+}
+.extra-round-bottom {
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.button-bg {
+  background-color: rgb(1, 1, 75);
+}
+.borderless {
+  border: none;
+}
